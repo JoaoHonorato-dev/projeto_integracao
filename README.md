@@ -35,5 +35,5 @@ A pasta models, é responsável por armazenar arquivos que fazer referencia ao B
 Deste modo a organização do Laravel e sua funcionalidades ajudam muito na criação de um sistema Web, podendo ser responsivo e ser usado em mobile também.
 
 O Laravel ajudaria muito no processo de criação deste Sistema.
-E é claro que o Laravel faz a conexão com o Banco e tambpém cria as Rotas para navegação e requisição na Web.
+E é claro que o Laravel faz a conexão com o Banco e também cria as Rotas para navegação e requisição na Web.
 Mas é claro que é um assunto mais aprofundado, aqui está a documentação mais recente no momento do Laravel https://laravel.com/docs/12.x.
