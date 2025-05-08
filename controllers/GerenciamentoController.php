@@ -9,6 +9,7 @@ use Auth;
 class GerenciamentoController{
 
     public function salvaCategoria($nome_categoria){
+        $teste = 'teste';
         if(!$nome_categoria){
             return 'O nome da categoria é obrigatório';
         }
